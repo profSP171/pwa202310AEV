@@ -1,1 +1,1 @@
-create database pwa202310a
+CREATE DATABASE pwa202310a CHARACTER SET utf8 COLLATE utf8_unicode_ci;
